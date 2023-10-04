@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "limits.h": "c",
+        "qrcodegen.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "stddef.h": "c",
+        "assert.h": "c",
+        "pd_api.h": "c",
+        "qrquick.h": "c",
+        "pd_api_lua.h": "c",
+        "pd_api_gfx.h": "c",
+        "typeinfo": "c",
+        "chrono": "c",
+        "__hash_table": "c",
+        "__split_buffer": "c",
+        "__tree": "c",
+        "atomic": "c",
+        "deque": "c",
+        "hash_map": "c",
+        "ios": "c",
+        "list": "c",
+        "map": "c",
+        "string": "c",
+        "system_error": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "*.tcc": "c"
+    }
+}

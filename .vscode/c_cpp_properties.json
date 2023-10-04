@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Playdate",
+            "includePath": [
+                "${workspaceFolder}/src/**",
+                "/Users/peter/Developer/PlaydateSDK/C_API/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/local/bin/arm-none-eabi-gcc",
+            "cStandard": "c17",
+            "intelliSenseMode": "macos-gcc-arm",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
